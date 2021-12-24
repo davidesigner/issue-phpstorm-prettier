@@ -19,3 +19,5 @@ As defined in the [.prettierignore](.prettierignore) file, the expected result c
 I think the `.prettierignore` is ignored by the IDE.
 
 > N.B. When I run `yarn pretty:fix`, the only prettied file is **src/app.js** as expected.
+
+Related issue: https://youtrack.jetbrains.com/issue/WI-64693
