@@ -1,0 +1,11 @@
+{
+  "name": "prettier",
+  "version": "1.0.0",
+  "scripts": {
+    "pretty": "prettier './**/*.{js,json,graphql,scss}'",
+    "pretty:fix": "yarn pretty --write"
+  },
+  "dependencies": {
+    "prettier": "^2.5.1"
+  }
+}
